@@ -19,7 +19,7 @@
 
 ###
 
-<h4 align="left">Olá, meu nome é Vinicius, tenho 18 anos.<br>Seja bem-vindo ao meu portifólio onde você verá muitos projetos ou tentativas de alguns.</h4>
+<h4 align="left">Olá, meu nome é Vinicius, tenho 18 anos.<br>Seja bem-vindo ao meu portfólio onde você verá muitos projetos ou tentativas de alguns.</h4>
 
 ###
 <!--
