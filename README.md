@@ -18,6 +18,10 @@
 </div>
 
 ###
+
+<h4 align="left">Olá, meu nome é Vinicius, tenho 18 anos.<br>Seja bem-vindo ao meu portifólio onde você verá muitos projetos ou tentativas de alguns.</h4>
+
+###
 <!--
 
 **Viniciusballa12/Viniciusballa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
